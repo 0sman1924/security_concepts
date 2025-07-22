@@ -1,5 +1,15 @@
 # 🛡️ Unified Kill Chain (UKC) – Summary 
+<br>
+<br>
 
+## Mini Podcast For My Summary
+
+Arabic version:  https://drive.google.com/file/d/1zFgB2kyQgUNRgGizUpRhshkQ1hVjEUpY/view?usp=sharing
+<br>
+English version: https://drive.google.com/file/d/15hLbZ-FF59KXamhqKWyJeSdiOlusD7_t/view?usp=sharing
+
+<br>
+<br>
 
 ## 📌 Cybersecurity Posture
 
@@ -13,8 +23,6 @@ Understanding the behaviors, objectives, and methodologies of cyber threats is e
 Originally a military term, a **Kill Chain** describes the structured steps an adversary takes to achieve an objective. 
 
 In cybersecurity, it models the **attacker’s lifecycle**, including reconnaissance, delivery, exploitation, and post-exploitation. It helps defenders **visualize and disrupt attacks** at various phases.
-
-
 
 
 <br>
@@ -47,6 +55,17 @@ The **Unified Kill Chain**, developed by Paul Pols in 2017 and updated in 2022, 
 <br>
 <br>
 
+#### Unified Kill Chain stages
+---
+
+<img width="1230" height="794" alt="15" src="https://github.com/user-attachments/assets/15ac70b2-4b10-41c3-83d0-9231148d1dbc" />
+
+<br>
+
+<img width="1255" height="424" alt="Pasted image 20250723001049" src="https://github.com/user-attachments/assets/4f007c8a-bac5-4305-b40e-5601e907564b" />
+
+<br>
+<br>
 
 ## 🧩 UKC Role in SOC Operations
 
