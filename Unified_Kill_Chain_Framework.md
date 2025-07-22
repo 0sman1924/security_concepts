@@ -1,4 +1,9 @@
 # 🛡️ Unified Kill Chain (UKC) – Summary 
+
+The **Unified Kill Chain (UKC)** is a modern cybersecurity framework developed by Paul Pols that extends and unifies existing models like the Lockheed Martin Cyber Kill Chain and MITRE ATT&CK. It presents a comprehensive view of the **entire attack lifecycle**, structured into **18 phases**, covering initial reconnaissance, delivery, exploitation, lateral movement, and persistence. Unlike traditional linear models, the UKC reflects the **adaptive and iterative nature** of real-world cyberattacks — where adversaries often loop back to earlier phases as they pivot through a network.
+
+The UKC helps organizations **understand, detect, and disrupt attacker behavior** at every stage, making it a powerful tool for **SOC teams, threat hunters, and incident responders**.
+
 <br>
 <br>
 
